@@ -1,0 +1,16 @@
+{
+  "soil": {
+    "N": "float",
+    "P": "float",
+    "K": "float",
+    "temperature": "float",
+    "humidity": "float",
+    "ph": "float",
+    "rainfall": "float"
+  },
+  "advisory": {
+    "crop": "string",
+    "advice": "string"
+  },
+  "timestamp": "datetime"
+}

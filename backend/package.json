@@ -1,0 +1,8 @@
+{
+  "name": "sensor-server",
+  "version": "1.0.0",
+  "main": "sensor.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
